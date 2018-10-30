@@ -132,6 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#matteo-muscas-cover {
+  background-image: url(https://imgur.com/a/8aDBcp6);
+}
+
+#matteo-muscas-card {
+  background-image: url(https://imgur.com/a/7H81vLb);
+}
 
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
