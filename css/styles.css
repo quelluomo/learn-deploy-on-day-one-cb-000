@@ -133,11 +133,11 @@ a:visited {
   height: 400px;
 }
 #matteo-muscas-cover {
-  background-image: url(https://imgur.com/2Q82LmI);
+  background-image: url("https://imgur.com/2Q82LmI");
 }
 
 #matteo-muscas-card {
-  background-image: url(https://imgur.com/a/7H81vLb);
+  background-image: url("https://imgur.com/E97MbZq");
 }
 
 #joe-burgess-card {
